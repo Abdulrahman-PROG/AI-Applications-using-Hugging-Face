@@ -22,7 +22,7 @@ Below are my projects using Hugging Face’s open-source models:
 | **Project Name**         | **Description**                            | **Link**                                                                 |
 |--------------------------|--------------------------------------------|--------------------------------------------------------------------------|
 | Chatbot with Hugging Face| A simple chatbot powered by an open-source Hugging Face transformer model | [View on Kaggle](https://www.kaggle.com/code/abdulrahmanelbanna/chatbot-using-hugging-face) |
-
+| Sentiment Analysis Class Implementation | A sentiment analysis tool implemented as a class using Hugging Face models | [View on Kaggle](https://www.kaggle.com/code/abdulrahmanelbanna/sentiment-analysis-class-implementation) |
 *(More AI & LLM projects coming soon!)*
 
 ---
